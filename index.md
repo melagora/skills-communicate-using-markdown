@@ -10,3 +10,7 @@
 ```
 apt-cache search nombreSoftware
 ```
+
+- [x] Inicialización de repositorio.
+- [x] Pruebas de Markdown.
+- [ ] Repositorio cerrado.
