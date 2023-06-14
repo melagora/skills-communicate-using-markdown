@@ -6,3 +6,7 @@
 ###### Encabezado 6
 
 ![Imagen de boxertocat](https://octodex.github.com/images/boxertocat_octodex.jpg)
+
+```
+apt-cache search nombreSoftware
+```
